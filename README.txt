@@ -1,4 +1,5 @@
 Personal website developed by Gloria Liou
+http://www.cs.pomona.edu/~gliou/
 
 
 Design Template:
