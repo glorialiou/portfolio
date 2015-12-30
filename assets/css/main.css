@@ -2039,7 +2039,7 @@
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #2B252C;
+			background: #230023;
 		}
 
 			input[type="button"].alt:hover,
@@ -2085,7 +2085,7 @@
 		.icon.circled {
 			position: relative;
 			display: inline-block;
-			background: #2b252c;
+			background: #230023;
 			color: #fff;
 			border-radius: 100%;
 			width: 3em;
@@ -2404,13 +2404,13 @@
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #2b252c;
+		background: #230023;
 		color: #fff;
 	}
 
 		#footer .icon.circled {
 			background: #fff;
-			color: #2b252c;
+			color: #230023;
 		}
 
 		#footer header {
